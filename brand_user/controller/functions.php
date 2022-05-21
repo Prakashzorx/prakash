@@ -2970,3 +2970,7 @@ function getRecipeCountFromMachinePacketMaxRcReport($query, $date)
     }
     mysqli_close($con);
 }
+
+function test(){
+    
+}
